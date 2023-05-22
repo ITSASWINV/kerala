@@ -1,0 +1,20 @@
+*{
+    background-color: rgb(55, 104, 101);
+    border: 20pc;
+}
+.a{
+    color: rgb(238, 38, 12);
+    
+}
+.c{ 
+
+    color: rgb(0, 0, 0);
+}
+.bio{
+    font-size: 25px;
+    align-items: center;
+}
+.body{
+    border: 25px;
+    color:  green;
+}
